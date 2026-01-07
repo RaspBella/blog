@@ -1,0 +1,16 @@
+title: RaspBella's blog
+email: bella.campbell@tuta.io
+description: >- # this means to ignore newlines until "baseurl:"
+  A place to yap about;
+  Rubik's cubes,
+  Trains,
+  and Computer Science
+baseurl: /blog
+url: raspbella.github.io
+twitter_username: RaspBellamy
+github_username:  RaspBella
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
