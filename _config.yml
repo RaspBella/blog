@@ -6,7 +6,6 @@ description: >- # this means to ignore newlines until "url:"
   Trains,
   and Computer Science
 url: "https://blog.raspbella.xyz"
-baseurl: ""
 twitter_username: RaspBellamy
 github_username:  RaspBella
 
