@@ -1,12 +1,12 @@
 title: RaspBella's blog
 email: bella.campbell@tuta.io
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until "url:"
   A place to yap about;
   Rubik's cubes,
   Trains,
   and Computer Science
-baseurl: /blog
-url: raspbella.github.io
+url: "https://blog.raspbella.xyz"
+baseurl: ""
 twitter_username: RaspBellamy
 github_username:  RaspBella
 
